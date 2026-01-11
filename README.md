@@ -2,6 +2,9 @@
 
 FreeGPT is a modern, privacy-focused AI chat application that you run on your own computer. It allows you to chat with powerful AI models (like Google Gemini, GPT-4, Claude) and even upload your own documents (PDFs, Word files) to ask questions about them.
 
+
+<img width="1629" height="882" alt="Képernyőkép 2026-01-11 215417" src="https://github.com/user-attachments/assets/ae95b931-1e09-4dd5-a187-92413cfd048d" />
+
 ---
 
 ## 🚀 Quick Start (For Users)
