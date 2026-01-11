@@ -68,4 +68,4 @@ If you want to create your own executable:
 ## 📝 License
 [MIT](LICENSE) - Free to use and modify.
 
-<img width="2559" height="1305" alt="Képernyőkép 2026-01-11 215814" src="https://github.com/user-attachments/assets/4bc7f54b-e06a-457d-8b88-038a2d960500" />
+Képernyőkép 2026-01-11 220031
