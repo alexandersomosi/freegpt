@@ -7,13 +7,15 @@ FreeGPT is a modern, privacy-focused AI chat application that you run on your ow
 
 ---
 
-## 🚀 Quick Start (For Users)
+## 🚀 Quick Start (Windows Users)
 
 **Don't want to install anything?**
 1.  Go to [Releases](https://github.com/alexandersomosi/freegpt/releases).
 2.  Download the latest `FreeGPT.exe`.
 3.  Double-click to run!
 4.  Your browser will open automatically at `http://localhost:8000`.
+
+*(Mac and Linux users: Please follow the "Installation Guide" below to run from source code.)*
 
 ---
 
