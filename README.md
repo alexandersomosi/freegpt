@@ -50,6 +50,9 @@ python main.py
 
 ### Step 3: Set up the Frontend
 ```bash
+
+<img width="2559" height="1305" alt="Képernyőkép 2026-01-11 215814" src="https://github.com/user-attachments/assets/5250924c-260e-4db4-9314-38da9a5990f4" />
+
 # In a new terminal
 npm install
 npm run dev
