@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-google-genai
+langchain-community
+langchain-openai
+langchain-anthropic
+chromadb
+python-dotenv
+pydantic
+pypdf
+python-docx
+sqlalchemy

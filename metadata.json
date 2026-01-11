@@ -1,0 +1,5 @@
+{
+  "name": "FreeGPT",
+  "description": "A high-fidelity clone of the FreeGPT chat interface using Gemini 3 models for reasoning and search capabilities.",
+  "requestFramePermissions": []
+}
